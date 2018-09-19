@@ -1,0 +1,87 @@
+#bg{
+    background-image: url("level1BG.jpg");
+    background-size: cover;
+    background-repeat:no-repeat ;
+    /*height:100vh;*/
+
+}
+
+#ques{
+    /*font-size: large;*/
+    margin-top: 60px;
+    font-family:"Cooper Black";
+    background-color:beige;
+    border-style: double;
+    border-width: thick;
+    border-radius: 5px;
+    border-color: black;
+    /*padding-left: 10px;*/
+    margin-left: 130px;
+    width: 600px;
+    height: 400px;
+}
+#questNum{
+    background-color:yellow;
+    font-family: "Arial Black";
+    color: white;
+    padding: 10px;
+    border-bottom-style: solid;
+    border-color: black;
+    width: 580px;
+}
+
+#output1{
+    margin-top: -10px;
+    width: 515px;
+    height: 310px;
+}
+
+#quesBox{
+      margin-left: 170px;
+    margin-top: 10px;
+}
+
+#time{
+
+    color: white;
+    font-size: xx-large;
+    border-color: yellow;
+    border-style: groove;
+    border-width: 2.5px;
+    border-radius: 5px;
+
+
+    position:absolute;
+    padding-right: 10px;
+    padding-left: 10px;
+    width: 75px;
+    padding-top: 10px;
+    height: 45px;
+    font-size: xx-large;
+
+
+}
+
+#TN{
+
+    padding: 5px;
+    background-color: beige;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: orangered;
+    font-family: "Cooper Black";
+    color: orangered;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+#score{
+    color: white;
+    font-size: xx-large;
+    border-color: yellow;
+    border-style: groove;
+    border-width: 2.5px;
+    border-radius: 5px;
+    margin-right: 10px;
+    padding: 8px;
+}
